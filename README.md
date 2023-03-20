@@ -6,6 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
+- [Contributing](#contributing)
 
 ## Description
 
@@ -39,3 +40,6 @@ The application's IndexedDB database
 ![Alt text](public/Screenshot%202023-03-14%20213145.png)
 
 This is a link to the deployed application on Heroku: https://text-editor19-challenge.herokuapp.com/
+
+## Contributing
+Big thanks to my TA's Jeremey and Sachin for help on this assignment.
